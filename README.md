@@ -37,7 +37,7 @@
 <a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🛍️_Dekho_Hukum-E--Commerce-f97316?style=for-the-badge&logo=shopify&logoColor=white&labelColor=431407" alt="Dekho Hukum"/>
 </a>
-<a href="https://blog.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://blogs.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/📖_Blog-Rajput_Heritage-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=3b0764" alt="Blog"/>
 </a>
 
@@ -297,7 +297,7 @@ Laravel backends, payment systems, queue workers, Eloquent ORM, and RESTful API 
 | | Project | Description | Tech |
 |:-:|:--------|:------------|:-----|
 | 🛍️ | <a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Dekho Hukum</b></a> | E-commerce for authentic Rajasthani poshak & Rajput attire | `Next.js` `Node.js` `MongoDB` `Tailwind` |
-| 📖 | <a href="https://blog.dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Dekho Hukum Blog</b></a> | Rajput history & heritage blog with SEO optimization | `Next.js` `React` `Node.js` `MongoDB` |
+| 📖 | <a href="https://blogs.dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Dekho Hukum Blog</b></a> | Rajput history & heritage blog with SEO optimization | `Next.js` `React` `Node.js` `MongoDB` |
 | 🏢 | **Co-Working Booking System** | Real-time desk & room booking with admin dashboard | `Node.js` `Express` `Socket.io` `JWT` |
 | 🎙️ | **Voice Forge** | Multi-voice TTS generator powered by Azure Edge TTS | `Next.js` `TypeScript` `Azure` `REST` |
 
@@ -389,6 +389,9 @@ MERN · Next.js · NestJS · Laravel — I respond within 24 hours.
 </a>
 <a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🛍️_Project-Dekho_Hukum-f97316?style=for-the-badge&logo=shopify&logoColor=white&labelColor=431407" alt="Dekho Hukum"/>
+</a>
+<a href="https://blogs.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📖_Blog-blogs.dekhohukum.com-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=3b0764" alt="Blog"/>
 </a>
 
 <br/><br/>
