@@ -1,11 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     HEADER BANNER — auto switches: black (light mode) / purple (dark mode)
+     HEADER BANNER
      ═══════════════════════════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=180&section=header&text=AzadRaj%20Singh%20Gahlot&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2F%20Backend%20Developer%20%7C%20Engineering%20at%20Scale&descSize=14&descAlignY=58&descAlign=50"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:141414,100:1a1a1a&height=180&section=header&text=AzadRaj%20Singh%20Gahlot&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2F%20Backend%20Developer%20%7C%20Engineering%20at%20Scale&descSize=14&descAlignY=58&descAlign=50&descColor=e5e5e5"/>
-  <img alt="AzadRaj Singh Gahlot — Full-Stack / Backend Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=180&section=header&text=AzadRaj%20Singh%20Gahlot&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2F%20Backend%20Developer%20%7C%20Engineering%20at%20Scale&descSize=14&descAlignY=58&descAlign=50"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=180&section=header&text=AzadRaj%20Singh%20Gahlot&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2F%20Backend%20Developer%20%7C%20Engineering%20at%20Scale&descSize=14&descAlignY=58&descAlign=50"/>
 
 <div align="center">
 
@@ -509,11 +505,7 @@ Laravel backends, payment systems, queue workers, Eloquent ORM, and RESTful API 
      CONNECT
      ═══════════════════════════════════════════════════════════════ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
-  <img alt="Let's Build Something Great Together" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
 <div align="center">
 
