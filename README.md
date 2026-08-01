@@ -1,7 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     HEADER BANNER
+     HEADER BANNER — auto switches: black (light mode) / purple (dark mode)
      ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=180&section=header&text=AzadRaj%20Singh%20Gahlot&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2F%20Backend%20Developer%20%7C%20Engineering%20at%20Scale&descSize=14&descAlignY=58&descAlign=50"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=180&section=header&text=AzadRaj%20Singh%20Gahlot&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2F%20Backend%20Developer%20%7C%20Engineering%20at%20Scale&descSize=14&descAlignY=58&descAlign=50"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:141414,100:1a1a1a&height=180&section=header&text=AzadRaj%20Singh%20Gahlot&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2F%20Backend%20Developer%20%7C%20Engineering%20at%20Scale&descSize=14&descAlignY=58&descAlign=50&descColor=e5e5e5"/>
+  <img alt="AzadRaj Singh Gahlot — Full-Stack / Backend Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=180&section=header&text=AzadRaj%20Singh%20Gahlot&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2F%20Backend%20Developer%20%7C%20Engineering%20at%20Scale&descSize=14&descAlignY=58&descAlign=50"/>
+</picture>
 
 <div align="center">
 
@@ -18,33 +22,33 @@
 <br/>
 
 <!-- Social Links — open in new tab -->
-<a href="https://azadrajsingh.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://azadrajsingh.dekhohukum.com/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b" alt="Portfolio"/>
 </a>
-<a href="https://linkedin.com/in/azadsinghgahlot" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/azadsinghgahlot">
   <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2d4a" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/azadrajsingh" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/azadrajsingh">
   <img src="https://img.shields.io/badge/⭐_GitHub-azadrajsingh-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 <br/>
-<a href="mailto:azadsingh9994@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:azadsingh9994@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-azadsingh9994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d" alt="Email"/>
 </a>
-<a href="https://wa.me/918740899848" target="_blank" rel="noopener noreferrer">
+<a href="https://wa.me/918740899848">
   <img src="https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=14532d" alt="WhatsApp"/>
 </a>
 <br/>
-<a href="https://zerotrace-one.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://zerotrace-one.vercel.app/">
   <img src="https://img.shields.io/badge/🔒_ZeroTrace-Private_Chat-10b981?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=064e3b" alt="ZeroTrace"/>
 </a>
-<a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://dekhohukum.com/">
   <img src="https://img.shields.io/badge/🛍️_Dekho_Hukum-E--Commerce-f97316?style=for-the-badge&logo=shopify&logoColor=white&labelColor=431407" alt="Dekho Hukum"/>
 </a>
-<a href="https://blogs.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://blogs.dekhohukum.com/">
   <img src="https://img.shields.io/badge/📖_Blog-Rajput_Heritage-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=3b0764" alt="Blog"/>
 </a>
-<a href="https://www.maxpay.vip/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.maxpay.vip/">
   <img src="https://img.shields.io/badge/💳_MaxPay_VIP-Live-6366f1?style=for-the-badge&logo=stripe&logoColor=white&labelColor=1e1b4b" alt="MaxPay VIP"/>
 </a>
 
@@ -80,7 +84,7 @@ Backend-first engineer shipping **production-grade systems** at scale — from r
 
 Expert in RESTful APIs, microservices, Redis caching, BullMQ queues, Socket.io, and database optimization. Deployed on **AWS** with Docker & CI/CD.
 
-🌐 <a href="https://azadrajsingh.dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Explore My Portfolio →</b></a>
+🌐 <a href="https://azadrajsingh.dekhohukum.com/"><b>Explore My Portfolio →</b></a>
 
 </td>
 <td width="45%" valign="top">
@@ -299,105 +303,180 @@ Laravel backends, payment systems, queue workers, Eloquent ORM, and RESTful API 
 
 ## 🚀 Featured Projects
 
-### 🌟 Personal Projects — Built by Me
-
-<p align="left">
-<a href="https://zerotrace-one.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🔒_ZeroTrace-Visit_Live_Site-10b981?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=064e3b" alt="ZeroTrace"/>
-</a><br/>
-<sub>Private encrypted video, voice & chat — P2P, no accounts, rooms vanish in 1 hour</sub><br/>
-<code>Next.js</code> <code>WebRTC</code> <code>Socket.io</code> <code>E2E</code>
+<p align="center">
+  <i>Production-grade systems & personal products — fintech, real-time platforms, and full-stack applications.</i>
 </p>
 
-<p align="left">
-<a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🛍️_Dekho_Hukum-Visit_Live_Site-f97316?style=for-the-badge&logo=shopify&logoColor=white&labelColor=431407" alt="Dekho Hukum"/>
-</a><br/>
-<sub>E-commerce for authentic Rajasthani poshak & Rajput attire — cart, checkout, order tracking</sub><br/>
-<code>Next.js</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind</code>
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-12-6366f1?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Live_Sites-6-10b981?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Production-7-8b5cf6?style=flat-square&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Personal-5-f97316?style=flat-square&logo=code&logoColor=white"/>
 </p>
 
-<p align="left">
-<a href="https://blogs.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/📖_Dekho_Hukum_Blog-Visit_Live_Site-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=3b0764" alt="Dekho Hukum Blog"/>
-</a><br/>
-<sub>Rajput history & heritage blog — curated articles on Rajasthani culture & royal legacy</sub><br/>
-<code>Next.js</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code>
+<br/>
+
+### 🌟 Personal Projects
+
+<table width="100%">
+<tr>
+  <th align="left" width="22%">Project</th>
+  <th align="left" width="48%">Description</th>
+  <th align="left" width="22%">Tech Stack</th>
+  <th align="center" width="8%">Link</th>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#30363d;margin:8px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>ZeroTrace</b><br/>
+    <img src="https://img.shields.io/badge/Privacy-Real--Time-10b981?style=flat-square" alt="Privacy"/>
+    <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Live"/>
+  </td>
+  <td>Private encrypted video, voice & chat for two — peer-to-peer, zero sign-up, rooms auto-expire in 1 hour.</td>
+  <td><code>Next.js</code> <code>WebRTC</code> <code>Socket.io</code> <code>TypeScript</code> <code>E2E</code></td>
+  <td align="center"><a href="https://zerotrace-one.vercel.app/"><img src="https://img.shields.io/badge/↗-Live-10b981?style=flat-square" alt="Visit"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>Dekho Hukum</b><br/>
+    <img src="https://img.shields.io/badge/E--Commerce-Next.js-f97316?style=flat-square" alt="E-Commerce"/>
+    <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Live"/>
+  </td>
+  <td>Full-featured e-commerce for authentic Rajasthani poshak & Rajput attire — catalog, cart, checkout & order tracking.</td>
+  <td><code>Next.js</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind</code> <code>REST</code></td>
+  <td align="center"><a href="https://dekhohukum.com/"><img src="https://img.shields.io/badge/↗-Live-f97316?style=flat-square" alt="Visit"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>Dekho Hukum Blog</b><br/>
+    <img src="https://img.shields.io/badge/Blog-MERN-8b5cf6?style=flat-square" alt="Blog"/>
+    <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Live"/>
+  </td>
+  <td>Rajput history & heritage platform — curated articles on Rajasthani culture, traditions, and royal legacy with SEO.</td>
+  <td><code>Next.js</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>SEO</code></td>
+  <td align="center"><a href="https://blogs.dekhohukum.com/"><img src="https://img.shields.io/badge/↗-Live-8b5cf6?style=flat-square" alt="Visit"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>Co-Working Booking</b><br/>
+    <img src="https://img.shields.io/badge/Booking-MERN-6366f1?style=flat-square" alt="Booking"/>
+    <img src="https://img.shields.io/badge/Status-Personal-64748b?style=flat-square" alt="Personal"/>
+  </td>
+  <td>Desk & meeting room booking for co-working spaces — real-time availability, slot management & admin dashboard.</td>
+  <td><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.io</code> <code>JWT</code></td>
+  <td align="center"><a href="https://azadrajsingh.dekhohukum.com/#projects"><img src="https://img.shields.io/badge/↗-View-6366f1?style=flat-square" alt="View"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>Voice Forge</b><br/>
+    <img src="https://img.shields.io/badge/AI-TTS-a855f7?style=flat-square" alt="AI TTS"/>
+    <img src="https://img.shields.io/badge/Status-Personal-64748b?style=flat-square" alt="Personal"/>
+  </td>
+  <td>Text-to-speech generator powered by Azure Edge TTS — multi-voice synthesis, language support & audio export.</td>
+  <td><code>Next.js</code> <code>Node.js</code> <code>TypeScript</code> <code>Azure</code> <code>REST</code></td>
+  <td align="center"><a href="https://azadrajsingh.dekhohukum.com/#projects"><img src="https://img.shields.io/badge/↗-View-a855f7?style=flat-square" alt="View"/></a></td>
+</tr>
+</table>
+
+<br/>
+
+### 🏭 Production Systems
+
+<table width="100%">
+<tr>
+  <th align="left" width="22%">Project</th>
+  <th align="left" width="48%">Description</th>
+  <th align="left" width="22%">Tech Stack</th>
+  <th align="center" width="8%">Link</th>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#30363d;margin:8px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>MaxPay VIP</b><br/>
+    <img src="https://img.shields.io/badge/Fintech-Laravel-6366f1?style=flat-square" alt="Fintech"/>
+    <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Live"/>
+  </td>
+  <td>Business payment gateway for Pan-Asia — 10+ payment systems, T+0 settlement & scalable merchant integrations.</td>
+  <td><code>Laravel</code> <code>Redis</code> <code>PostgreSQL</code> <code>REST</code> <code>AWS</code></td>
+  <td align="center"><a href="https://www.maxpay.vip/"><img src="https://img.shields.io/badge/↗-Live-6366f1?style=flat-square" alt="Visit"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>MaxPay Global</b><br/>
+    <img src="https://img.shields.io/badge/Payments-Cross--Border-8b5cf6?style=flat-square" alt="Payments"/>
+    <img src="https://img.shields.io/badge/500K+-txns/day-ef4444?style=flat-square" alt="Scale"/>
+  </td>
+  <td>Cross-border payments with multi-currency wallet — 50+ currencies, instant FX conversion & high-volume processing.</td>
+  <td><code>Laravel</code> <code>Redis</code> <code>PostgreSQL</code> <code>REST</code> <code>Queues</code></td>
+  <td align="center"><a href="https://maxpay.bet/"><img src="https://img.shields.io/badge/↗-Live-8b5cf6?style=flat-square" alt="Visit"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>DafriPremier</b><br/>
+    <img src="https://img.shields.io/badge/Banking-FinTech-0ea5e9?style=flat-square" alt="Banking"/>
+    <img src="https://img.shields.io/badge/99.9%25-uptime-22c55e?style=flat-square" alt="Uptime"/>
+  </td>
+  <td>Global FinTech platform — crypto on/off-ramp, MobiCash, invoicing, escrow & banking integrations at enterprise scale.</td>
+  <td><code>Laravel</code> <code>PostgreSQL</code> <code>Redis</code> <code>AWS</code> <code>Sanctum</code></td>
+  <td align="center"><a href="https://www.dafripremier.com/"><img src="https://img.shields.io/badge/↗-Live-0ea5e9?style=flat-square" alt="Visit"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>The Flow</b><br/>
+    <img src="https://img.shields.io/badge/Streaming-Media-ec4899?style=flat-square" alt="Streaming"/>
+    <img src="https://img.shields.io/badge/Status-Production-8b5cf6?style=flat-square" alt="Production"/>
+  </td>
+  <td>Apple Music–style streaming app — full player experience with Stripe & Apple IAP subscriptions & secure delivery.</td>
+  <td><code>Laravel</code> <code>Stripe</code> <code>Apple IAP</code> <code>AWS</code> <code>Redis</code></td>
+  <td align="center"><a href="https://azadrajsingh.dekhohukum.com/#projects"><img src="https://img.shields.io/badge/↗-View-ec4899?style=flat-square" alt="View"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>Horse League</b><br/>
+    <img src="https://img.shields.io/badge/Real--Time-MERN-22c55e?style=flat-square" alt="Real-Time"/>
+    <img src="https://img.shields.io/badge/100K+-DAU-f97316?style=flat-square" alt="DAU"/>
+  </td>
+  <td>Fantasy racing platform — live race tracking, real-time leaderboards & BullMQ job processing at massive scale.</td>
+  <td><code>Node.js</code> <code>React</code> <code>MongoDB</code> <code>Socket.io</code> <code>BullMQ</code></td>
+  <td align="center"><a href="https://azadrajsingh.dekhohukum.com/#projects"><img src="https://img.shields.io/badge/↗-View-22c55e?style=flat-square" alt="View"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>Real-Time Messaging</b><br/>
+    <img src="https://img.shields.io/badge/Chat-Next.js-06b6d4?style=flat-square" alt="Chat"/>
+    <img src="https://img.shields.io/badge/Status-Production-8b5cf6?style=flat-square" alt="Production"/>
+  </td>
+  <td>WhatsApp-like messaging — direct/group chat, audio/video calling, Firebase Authentication & Twilio integration.</td>
+  <td><code>Next.js</code> <code>Node.js</code> <code>Socket.io</code> <code>Firebase</code> <code>Twilio</code></td>
+  <td align="center"><a href="https://azadrajsingh.dekhohukum.com/#projects"><img src="https://img.shields.io/badge/↗-View-06b6d4?style=flat-square" alt="View"/></a></td>
+</tr>
+<tr><td colspan="4"><hr style="border:0;height:1px;background:#21262d;margin:6px 0"/></td></tr>
+<tr valign="top">
+  <td>
+    <b>Matchmaking Platform</b><br/>
+    <img src="https://img.shields.io/badge/Social-MERN-f43f5e?style=flat-square" alt="Social"/>
+    <img src="https://img.shields.io/badge/100K+-users-f97316?style=flat-square" alt="Users"/>
+  </td>
+  <td>Scalable real-time chat & matchmaking — optimized MongoDB schemas with sub-second message delivery.</td>
+  <td><code>Node.js</code> <code>React</code> <code>MongoDB</code> <code>Socket.io</code> <code>Redis</code></td>
+  <td align="center"><a href="https://azadrajsingh.dekhohukum.com/#projects"><img src="https://img.shields.io/badge/↗-View-f43f5e?style=flat-square" alt="View"/></a></td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>📂 <a href="https://azadrajsingh.dekhohukum.com/#projects"><b>View all projects on portfolio →</b></a></sub>
 </p>
 
-<p align="left">
-<a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🏢_Co--Working_Booking-View_on_Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b" alt="Co-Working Booking"/>
-</a><br/>
-<sub>Real-time desk & room booking — slot management, admin dashboard, auto confirmations</sub><br/>
-<code>Node.js</code> <code>Express</code> <code>Socket.io</code> <code>JWT</code>
-</p>
-
-<p align="left">
-<a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🎙️_Voice_Forge-View_on_Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3b0764" alt="Voice Forge"/>
-</a><br/>
-<sub>Multi-voice TTS generator powered by Azure Edge TTS — language support & audio export</sub><br/>
-<code>Next.js</code> <code>TypeScript</code> <code>Azure</code> <code>REST</code>
-</p>
-
-### 🏭 Production Systems — Client & Company Work
-
-<p align="left">
-<a href="https://www.maxpay.vip/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/💳_MaxPay_VIP-Visit_Live_Site-6366f1?style=for-the-badge&logo=stripe&logoColor=white&labelColor=1e1b4b" alt="MaxPay VIP"/>
-</a><br/>
-<sub>Business payment gateway for Pan-Asia — 10+ payment systems, T+0 settlement</sub><br/>
-<code>Laravel</code> <code>Redis</code> <code>PostgreSQL</code> <code>REST</code>
-</p>
-
-<p align="left">
-<a href="https://maxpay.bet/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🌍_MaxPay_Global-Visit_Live_Site-8b5cf6?style=for-the-badge&logo=globe&logoColor=white&labelColor=3b0764" alt="MaxPay Global"/>
-</a><br/>
-<sub>Cross-border payments — 50+ currencies, instant FX, 500K+ daily transactions</sub><br/>
-<code>Laravel</code> <code>Redis</code> <code>PostgreSQL</code> <code>REST</code>
-</p>
-
-<p align="left">
-<a href="https://www.dafripremier.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🏦_DafriPremier-Visit_Live_Site-0ea5e9?style=for-the-badge&logo=bank&logoColor=white&labelColor=0c4a6e" alt="DafriPremier"/>
-</a><br/>
-<sub>FinTech platform — crypto on/off-ramp, MobiCash, invoicing, escrow, 99.9% uptime</sub><br/>
-<code>Laravel</code> <code>PostgreSQL</code> <code>Redis</code> <code>AWS</code>
-</p>
-
-<p align="left">
-<a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🎵_The_Flow-View_on_Portfolio-ec4899?style=for-the-badge&logo=spotify&logoColor=white&labelColor=831843" alt="The Flow"/>
-</a><br/>
-<sub>Apple Music–style streaming — Stripe & Apple IAP subscriptions, secure content delivery</sub><br/>
-<code>Laravel</code> <code>Stripe</code> <code>Apple IAP</code> <code>AWS</code>
-</p>
-
-<p align="left">
-<a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🏇_Horse_League-View_on_Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=14532d" alt="Horse League"/>
-</a><br/>
-<sub>Fantasy racing — live tracking, leaderboards, BullMQ jobs, 100K+ DAU</sub><br/>
-<code>MERN</code> <code>Socket.io</code> <code>Redis</code> <code>BullMQ</code>
-</p>
-
-<p align="left">
-<a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/💬_Real--Time_Messaging-View_on_Portfolio-06b6d4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=164e63" alt="Real-Time Messaging"/>
-</a><br/>
-<sub>WhatsApp-like chat — direct/group messaging, audio/video calling, Firebase Auth</sub><br/>
-<code>Next.js</code> <code>Socket.io</code> <code>Firebase</code> <code>Twilio</code>
-</p>
-
-<p align="left">
-<a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/💕_Matchmaking_Platform-View_on_Portfolio-f43f5e?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=881337" alt="Matchmaking Platform"/>
-</a><br/>
-<sub>Real-time chat & matchmaking for 100K+ users — sub-second message delivery</sub><br/>
-<code>MERN</code> <code>Socket.io</code> <code>MongoDB</code> <code>Redis</code>
-</p>
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════
      GITHUB ANALYTICS
@@ -430,7 +509,11 @@ Laravel backends, payment systems, queue workers, Eloquent ORM, and RESTful API 
      CONNECT
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+  <img alt="Let's Build Something Great Together" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+</picture>
 
 <div align="center">
 
@@ -440,40 +523,40 @@ MERN · Next.js · NestJS · Laravel — I respond within 24 hours.
 
 <br/>
 
-<a href="https://azadrajsingh.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://azadrajsingh.dekhohukum.com/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-azadrajsingh.dekhohukum.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b" alt="Portfolio"/>
 </a>
-<a href="https://wa.me/918740899848" target="_blank" rel="noopener noreferrer">
+<a href="https://wa.me/918740899848">
   <img src="https://img.shields.io/badge/💬_WhatsApp-+91_8740899848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=14532d" alt="WhatsApp"/>
 </a>
-<a href="mailto:azadsingh9994@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:azadsingh9994@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-azadsingh9994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d" alt="Email"/>
 </a>
 <br/>
-<a href="https://linkedin.com/in/azadsinghgahlot" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/azadsinghgahlot">
   <img src="https://img.shields.io/badge/💼_LinkedIn-azadsinghgahlot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2d4a" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/azadrajsingh" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/azadrajsingh">
   <img src="https://img.shields.io/badge/⭐_GitHub-azadrajsingh-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 <br/>
-<a href="https://zerotrace-one.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://zerotrace-one.vercel.app/">
   <img src="https://img.shields.io/badge/🔒_ZeroTrace-Live_Demo-10b981?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=064e3b" alt="ZeroTrace"/>
 </a>
-<a href="https://www.maxpay.vip/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.maxpay.vip/">
   <img src="https://img.shields.io/badge/💳_MaxPay_VIP-Live_Site-6366f1?style=for-the-badge&logo=stripe&logoColor=white&labelColor=1e1b4b" alt="MaxPay VIP"/>
 </a>
-<a href="https://maxpay.bet/" target="_blank" rel="noopener noreferrer">
+<a href="https://maxpay.bet/">
   <img src="https://img.shields.io/badge/🌍_MaxPay_Global-Live_Site-8b5cf6?style=for-the-badge&logo=globe&logoColor=white&labelColor=3b0764" alt="MaxPay Global"/>
 </a>
-<a href="https://www.dafripremier.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.dafripremier.com/">
   <img src="https://img.shields.io/badge/🏦_DafriPremier-Live_Site-0ea5e9?style=for-the-badge&logo=bank&logoColor=white&labelColor=0c4a6e" alt="DafriPremier"/>
 </a>
 <br/>
-<a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://dekhohukum.com/">
   <img src="https://img.shields.io/badge/🛍️_Project-Dekho_Hukum-f97316?style=for-the-badge&logo=shopify&logoColor=white&labelColor=431407" alt="Dekho Hukum"/>
 </a>
-<a href="https://blogs.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://blogs.dekhohukum.com/">
   <img src="https://img.shields.io/badge/📖_Blog-blogs.dekhohukum.com-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=3b0764" alt="Blog"/>
 </a>
 
@@ -487,7 +570,7 @@ MERN · Next.js · NestJS · Laravel — I respond within 24 hours.
 
 *Full-Stack / Backend Developer · Jaipur, India · 5+ Years*
 
-⭐️ From <a href="https://github.com/azadrajsingh" target="_blank" rel="noopener noreferrer"><b>azadrajsingh</b></a>
+⭐️ From <a href="https://github.com/azadrajsingh"><b>azadrajsingh</b></a>
 
 <br/>
 
