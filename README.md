@@ -102,13 +102,14 @@ Expert in RESTful APIs, microservices, Redis caching, BullMQ queues, Socket.io, 
      IMPACT METRICS
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=40&section=header&text=📊%20Production%20Impact&fontSize=18&fontColor=fff&fontAlignY=55"/>
+## 📊 Production Impact
 
 <div align="center">
 
-| | | | |
+| 💳 | 👥 | 🟢 | 💼 |
 |:---:|:---:|:---:|:---:|
-| <img src="https://img.icons8.com/fluency/96/transaction.png" width="52"/><br/><br/>**`500K+`**<br/><sub>Daily Transactions</sub> | <img src="https://img.icons8.com/fluency/96/group.png" width="52"/><br/><br/>**`100K+`**<br/><sub>Daily Active Users</sub> | <img src="https://img.icons8.com/fluency/96/online-support.png" width="52"/><br/><br/>**`99.9%`**<br/><sub>System Uptime</sub> | <img src="https://img.icons8.com/fluency/96/work.png" width="52"/><br/><br/>**`5+`**<br/><sub>Years Experience</sub> |
+| **`500K+`** | **`100K+`** | **`99.9%`** | **`5+`** |
+| Daily Transactions | Daily Active Users | System Uptime | Years Experience |
 
 </div>
 
@@ -116,7 +117,7 @@ Expert in RESTful APIs, microservices, Redis caching, BullMQ queues, Socket.io, 
      ARCHITECTURE
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=40&section=header&text=🏗️%20System%20Architecture%20I%20Build&fontSize=18&fontColor=fff&fontAlignY=55"/>
+## 🏗️ System Architecture I Build
 
 ```mermaid
 graph TB
@@ -171,7 +172,7 @@ graph TB
      TECH STACK
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=40&section=header&text=🛠️%20Tech%20Stack%20%26%20Proficiency&fontSize=18&fontColor=fff&fontAlignY=55"/>
+## 🛠️ Tech Stack & Proficiency
 
 <div align="center">
 
@@ -234,7 +235,7 @@ CI/CD          █████████████████░░░  85%
      EXPERIENCE
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=40&section=header&text=💼%20Career%20Journey&fontSize=18&fontColor=fff&fontAlignY=55"/>
+## 💼 Career Journey
 
 ```
   2022          2023          2024          2025          2026
@@ -288,7 +289,7 @@ Laravel backends, payment systems, queue workers, Eloquent ORM, and RESTful API 
      PROJECTS
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=40&section=header&text=🚀%20Featured%20Projects&fontSize=18&fontColor=fff&fontAlignY=55"/>
+## 🚀 Featured Projects
 
 <details open>
 <summary><b>🌟 Personal Projects — Built by Me</b></summary>
@@ -296,10 +297,10 @@ Laravel backends, payment systems, queue workers, Eloquent ORM, and RESTful API 
 
 | | Project | Description | Tech |
 |:-:|:--------|:------------|:-----|
-| 🛍️ | <a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Dekho Hukum</b></a> | E-commerce for authentic Rajasthani poshak & Rajput attire | `Next.js` `Node.js` `MongoDB` `Tailwind` |
-| 📖 | <a href="https://blogs.dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Dekho Hukum Blog</b></a> | Rajput history & heritage blog with SEO optimization | `Next.js` `React` `Node.js` `MongoDB` |
-| 🏢 | **Co-Working Booking System** | Real-time desk & room booking with admin dashboard | `Node.js` `Express` `Socket.io` `JWT` |
-| 🎙️ | **Voice Forge** | Multi-voice TTS generator powered by Azure Edge TTS | `Next.js` `TypeScript` `Azure` `REST` |
+| 🛍️ | <a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Dekho Hukum ↗</b></a> | E-commerce for authentic Rajasthani poshak & Rajput attire | `Next.js` `Node.js` `MongoDB` `Tailwind` |
+| 📖 | <a href="https://blogs.dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Dekho Hukum Blog ↗</b></a> | Rajput history & heritage blog with SEO optimization | `Next.js` `React` `Node.js` `MongoDB` |
+| 🏢 | <a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer"><b>Co-Working Booking System ↗</b></a> | Real-time desk & room booking with admin dashboard | `Node.js` `Express` `Socket.io` `JWT` |
+| 🎙️ | <a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer"><b>Voice Forge ↗</b></a> | Multi-voice TTS generator powered by Azure Edge TTS | `Next.js` `TypeScript` `Azure` `REST` |
 
 </details>
 
@@ -309,12 +310,12 @@ Laravel backends, payment systems, queue workers, Eloquent ORM, and RESTful API 
 
 | | Project | Description | Tech |
 |:-:|:--------|:------------|:-----|
-| 🏇 | **Horse League** | Fantasy racing — live tracking, leaderboards, BullMQ jobs | `MERN` `Socket.io` `Redis` `BullMQ` |
-| 💬 | **Real-Time Messaging** | WhatsApp-like chat with audio/video calling | `Next.js` `Socket.io` `Firebase` `Twilio` |
-| 💳 | **MaxPay Ecosystem** | Multi-currency payment gateway, 50+ currencies | `Laravel` `PostgreSQL` `Redis` |
-| 🏦 | **Dafri Bank** | Banking backend with fraud detection | `Laravel` `PostgreSQL` `AWS` |
-| 💕 | **Matchmaking Platform** | Real-time chat & matchmaking, sub-second delivery | `MERN` `Socket.io` `MongoDB` |
-| 📺 | **The Flow Streaming** | Streaming backend with Stripe & Apple IAP | `Laravel` `Stripe` `AWS` |
+| 🏇 | <a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer"><b>Horse League ↗</b></a> | Fantasy racing — live tracking, leaderboards, BullMQ jobs | `MERN` `Socket.io` `Redis` `BullMQ` |
+| 💬 | <a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer"><b>Real-Time Messaging ↗</b></a> | WhatsApp-like chat with audio/video calling | `Next.js` `Socket.io` `Firebase` `Twilio` |
+| 💳 | <a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer"><b>MaxPay Ecosystem ↗</b></a> | Multi-currency payment gateway, 50+ currencies | `Laravel` `PostgreSQL` `Redis` |
+| 🏦 | <a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer"><b>Dafri Bank ↗</b></a> | Banking backend with fraud detection | `Laravel` `PostgreSQL` `AWS` |
+| 💕 | <a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer"><b>Matchmaking Platform ↗</b></a> | Real-time chat & matchmaking, sub-second delivery | `MERN` `Socket.io` `MongoDB` |
+| 📺 | <a href="https://azadrajsingh.dekhohukum.com/#projects" target="_blank" rel="noopener noreferrer"><b>The Flow Streaming ↗</b></a> | Streaming backend with Stripe & Apple IAP | `Laravel` `Stripe` `AWS` |
 
 </details>
 
@@ -322,38 +323,26 @@ Laravel backends, payment systems, queue workers, Eloquent ORM, and RESTful API 
      GITHUB ANALYTICS
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=40&section=header&text=📈%20GitHub%20Analytics&fontSize=18&fontColor=fff&fontAlignY=55"/>
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=azadrajsingh&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+<!-- HTML img tags = not clickable on GitHub (no second-screen popup) -->
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=azadrajsingh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=AzadRaj's%20GitHub%20Stats" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azadrajsingh&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" height="170"/>
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azadrajsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=6366f1&include_all_commits=true"/>
+<img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=azadrajsingh&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadrajsingh&theme=radical&hide_border=true&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=azadrajsingh&theme=radical&hide_border=true&layout=compact" alt="WakaTime" height="170"/>
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadrajsingh&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azadrajsingh&theme=github_dark" alt="Profile Details"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azadrajsingh&theme=github_dark" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azadrajsingh&theme=github_dark" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azadrajsingh&theme=github_dark" alt="Stats Card"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azadrajsingh&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+<img alt="Contribution Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=azadrajsingh&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ffffff&area=true&custom_title=Contribution%20Activity"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azadrajsingh&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&radius=8" alt="Activity Graph"/>
-
-<br/><br/>
-
-<!-- Contribution Snake — auto-generated via GitHub Actions -->
-<img src="https://raw.githubusercontent.com/azadrajsingh/azadrajsingh/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/azadrajsingh/azadrajsingh/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -396,11 +385,7 @@ MERN · Next.js · NestJS · Laravel — I respond within 24 hours.
 
 <br/><br/>
 
-<img src="https://img.icons8.com/fluency/48/code.png" width="28"/>
-<img src="https://img.icons8.com/fluency/48/server.png" width="28"/>
-<img src="https://img.icons8.com/fluency/48/cloud.png" width="28"/>
-<img src="https://img.icons8.com/fluency/48/database.png" width="28"/>
-<img src="https://img.icons8.com/fluency/48/rocket.png" width="28"/>
+💻 · 🖥️ · ☁️ · 🗄️ · 🚀
 
 <br/><br/>
 
