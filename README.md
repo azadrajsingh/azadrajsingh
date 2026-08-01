@@ -13,16 +13,33 @@
 <br/><br/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full-Stack+%26+Backend+Developer;5%2B+Years+%7C+MERN+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Laravel;100K%2B+DAU+%7C+500K%2B+Daily+Transactions+%7C+99.9%25+Uptime;Building+systems+that+scale+to+millions+of+requests" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=780&height=130&lines=Full-Stack+%26+Backend+Developer;5%2B+Years+%7C+MERN+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Laravel;100K%2B+DAU+%7C+500K%2B+Daily+Transactions;99.9%25+Uptime+%7C+Engineering+at+Scale;Building+systems+that+scale+to+millions+of+requests" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Social Links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-azadrajsingh.dekhohukum.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://azadrajsingh.dekhohukum.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azadsinghgahlot)
-[![GitHub](https://img.shields.io/badge/GitHub-azadrajsingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azadrajsingh)
-[![Email](https://img.shields.io/badge/Email-azadsingh9994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azadsingh9994@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918740899848)
+<!-- Social Links — open in new tab -->
+<a href="https://azadrajsingh.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/azadsinghgahlot" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2d4a" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/azadrajsingh" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/⭐_GitHub-azadrajsingh-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+</a>
+<br/>
+<a href="mailto:azadsingh9994@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📧_Email-azadsingh9994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d" alt="Email"/>
+</a>
+<a href="https://wa.me/918740899848" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=14532d" alt="WhatsApp"/>
+</a>
+<a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🛍️_Dekho_Hukum-E--Commerce-f97316?style=for-the-badge&logo=shopify&logoColor=white&labelColor=431407" alt="Dekho Hukum"/>
+</a>
+<a href="https://blog.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📖_Blog-Rajput_Heritage-8b5cf6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=3b0764" alt="Blog"/>
+</a>
 
 </div>
 
@@ -56,7 +73,7 @@ Backend-first engineer shipping **production-grade systems** at scale — from r
 
 Expert in RESTful APIs, microservices, Redis caching, BullMQ queues, Socket.io, and database optimization. Deployed on **AWS** with Docker & CI/CD.
 
-🌐 **[Explore My Portfolio →](https://azadrajsingh.dekhohukum.com/)**
+🌐 <a href="https://azadrajsingh.dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Explore My Portfolio →</b></a>
 
 </td>
 <td width="45%" valign="top">
@@ -279,8 +296,8 @@ Laravel backends, payment systems, queue workers, Eloquent ORM, and RESTful API 
 
 | | Project | Description | Tech |
 |:-:|:--------|:------------|:-----|
-| 🛍️ | [**Dekho Hukum**](https://dekhohukum.com/) | E-commerce for authentic Rajasthani poshak & Rajput attire | `Next.js` `Node.js` `MongoDB` `Tailwind` |
-| 📖 | [**Dekho Hukum Blog**](https://blog.dekhohukum.com/) | Rajput history & heritage blog with SEO optimization | `Next.js` `React` `Node.js` `MongoDB` |
+| 🛍️ | <a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Dekho Hukum</b></a> | E-commerce for authentic Rajasthani poshak & Rajput attire | `Next.js` `Node.js` `MongoDB` `Tailwind` |
+| 📖 | <a href="https://blog.dekhohukum.com/" target="_blank" rel="noopener noreferrer"><b>Dekho Hukum Blog</b></a> | Rajput history & heritage blog with SEO optimization | `Next.js` `React` `Node.js` `MongoDB` |
 | 🏢 | **Co-Working Booking System** | Real-time desk & room booking with admin dashboard | `Node.js` `Express` `Socket.io` `JWT` |
 | 🎙️ | **Voice Forge** | Multi-voice TTS generator powered by Azure Edge TTS | `Next.js` `TypeScript` `Azure` `REST` |
 
@@ -354,11 +371,25 @@ MERN · Next.js · NestJS · Laravel — I respond within 24 hours.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-azadrajsingh.dekhohukum.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://azadrajsingh.dekhohukum.com/)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+91_8740899848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918740899848)
-[![Email](https://img.shields.io/badge/📧_Email-azadsingh9994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azadsingh9994@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-azadsinghgahlot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azadsinghgahlot)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-azadrajsingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azadrajsingh)
+<a href="https://azadrajsingh.dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-azadrajsingh.dekhohukum.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e1b4b" alt="Portfolio"/>
+</a>
+<a href="https://wa.me/918740899848" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/💬_WhatsApp-+91_8740899848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=14532d" alt="WhatsApp"/>
+</a>
+<a href="mailto:azadsingh9994@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/📧_Email-azadsingh9994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d" alt="Email"/>
+</a>
+<br/>
+<a href="https://linkedin.com/in/azadsinghgahlot" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-azadsinghgahlot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2d4a" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/azadrajsingh" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/⭐_GitHub-azadrajsingh-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+</a>
+<a href="https://dekhohukum.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🛍️_Project-Dekho_Hukum-f97316?style=for-the-badge&logo=shopify&logoColor=white&labelColor=431407" alt="Dekho Hukum"/>
+</a>
 
 <br/><br/>
 
@@ -374,10 +405,10 @@ MERN · Next.js · NestJS · Laravel — I respond within 24 hours.
 
 *Full-Stack / Backend Developer · Jaipur, India · 5+ Years*
 
-⭐️ From [**azadrajsingh**](https://github.com/azadrajsingh)
+⭐️ From <a href="https://github.com/azadrajsingh" target="_blank" rel="noopener noreferrer"><b>azadrajsingh</b></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+build+something+amazing+%F0%9F%9A%80" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&height=50&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+build+something+amazing+%F0%9F%9A%80" alt="Footer Typing"/>
 
 </div>
